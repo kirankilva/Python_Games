@@ -1,0 +1,2 @@
+# Number Guessing Game
+This is the simple game about guessing the number using Random function and Tkinter module(GUI)                                                                                                                                                                                                                                                                        ![2021-08-27 (2)](https://user-images.githubusercontent.com/85879013/131093336-081ed674-e6b0-4809-927d-0981aee64992.png)
